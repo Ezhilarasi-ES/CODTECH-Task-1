@@ -10,10 +10,12 @@ Duration:25th AUGUST 2024 TO 25th SEPTEMBER 2024
 
 Mentor:NEELA SANTHOSH KUMAR
 
-OVERVIEW OF THE PROJECT
+                                    OVERVIEW OF THE PROJECT
+
 PROJECT:TO DO LIST WEB APPLICATION
 
 OBJECTIVE
+
 Develop a functional to-do list application that allows users to add, mark as complete, and delete tasks in real-time.
 Implement a user-friendly interface with responsive design, ensuring compatibility across various devices and screen sizes.
 Provide validation mechanisms to prevent empty task submissions and alert users when no input is provided.
@@ -27,12 +29,12 @@ KEY ACTIVITIES
 1.Design and Layout:
 
     Implement the basic HTML structure and styling for a clean, user-friendly to-do list interface.
-    Ensure responsive design using CSS to adjust the layout across different screen sizes​(index).
+    Ensure responsive design using CSS to adjust the layout across different screen sizes​.
 
 2.Task Management Functionality:
 
    Add functionality to input tasks and display them dynamically in a list.
-   Allow users to mark tasks as completed (using the checked class) or delete them from the list​(script).
+   Allow users to mark tasks as completed (using the checked class) or delete them from the list​.
 
 3.JavaScript Interactivity:
 
@@ -49,12 +51,12 @@ TECHNOLOGIES USED
 1.HTML5:
 
     Structuring the content of the application, creating the layout, and embedding elements such as input fields and buttons.
-    Defining the user interface in the browser​(index).
+    Defining the user interface in the browser​.
 
 2.CSS3:
 
     Styling the user interface to make it visually appealing, including responsiveness for different screen sizes.
-    Managing layout design, colors, and positioning elements such as input boxes, buttons, and task lists​(index).
+    Managing layout design, colors, and positioning elements such as input boxes, buttons, and task lists​.
 
 3.JavaScript (ES6):
 
