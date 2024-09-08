@@ -23,34 +23,44 @@ Enhance usability with icons and visual feedback, such as changing icons for com
 Test and optimize the application for performance, ensuring it works across different browsers and devices.
 
 KEY ACTIVITIES
+
 1.Design and Layout:
+
     Implement the basic HTML structure and styling for a clean, user-friendly to-do list interface.
     Ensure responsive design using CSS to adjust the layout across different screen sizes​(index).
 
 2.Task Management Functionality:
+
    Add functionality to input tasks and display them dynamically in a list.
    Allow users to mark tasks as completed (using the checked class) or delete them from the list​(script).
 
 3.JavaScript Interactivity:
+
    Use JavaScript to capture input from the user and update the list in real-time.
    Implement checks to prevent empty task submissions with alerts for invalid input​(script).
 
 4.Testing and Debugging:
+
    Test cross-browser compatibility and responsive behavior.
    Ensure proper error handling when tasks are added, marked as complete, or deleted.
 
 TECHNOLOGIES USED
+
 1.HTML5:
+
     Structuring the content of the application, creating the layout, and embedding elements such as input fields and buttons.
     Defining the user interface in the browser​(index).
 
 2.CSS3:
+
     Styling the user interface to make it visually appealing, including responsiveness for different screen sizes.
     Managing layout design, colors, and positioning elements such as input boxes, buttons, and task lists​(index).
 
 3.JavaScript (ES6):
+
    Providing interactivity, such as adding, marking, and deleting tasks.
    Implementing DOM manipulation to update the list in real-time based on user actions​(script).
 
 4.Document Object Model (DOM):
+
    Used with JavaScript to dynamically manipulate HTML elements like adding or removing tasks, changing their styles, or updating their status.
